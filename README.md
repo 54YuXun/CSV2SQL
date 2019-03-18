@@ -10,5 +10,8 @@
     
     
 ### Example
+> Execute python file
 ![](https://i.imgur.com/xwhUaEd.jpg)
+
+> Select data from MS SQL
 ![](https://i.imgur.com/EmhXaOg.jpg)
