@@ -1,0 +1,8 @@
+[
+  {
+    "address": "[ip]",
+    "dbname": "[db]",
+    "account": "[act]",
+    "password": "[pwd]"
+  }
+]
