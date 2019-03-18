@@ -11,7 +11,7 @@
     
 ### Example
 > Execute python file
-![](https://i.imgur.com/xwhUaEd.jpg)
+![](https://i.imgur.com/WVeTnBy.jpg)
 
 > Select data from MS SQL
 ![](https://i.imgur.com/EmhXaOg.jpg)
