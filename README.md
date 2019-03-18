@@ -7,3 +7,7 @@
     
 * **step 2**
     * `py Csv2Sql.py -f [csv path] -t [Tablename]` 
+    
+    
+### Example
+![](https://i.imgur.com/xwhUaEd.jpg)
