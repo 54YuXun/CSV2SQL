@@ -9,10 +9,3 @@
     * `py Csv2Sql.py -f [csv path] -t [Tablename]` 
     
     
-### Example
-> Execute python file
-![](https://i.imgur.com/zAUQiLl.jpg)
-
-> Select data from MS SQL
-![](https://i.imgur.com/hVs2ayN.jpg)
-
